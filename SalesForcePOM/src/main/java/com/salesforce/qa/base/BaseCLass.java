@@ -36,7 +36,7 @@ public class BaseCLass  {
 	}
 //	public void screenShot(String result) throws IOException {
 //		File src = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-//		FileUtils.copyFile(src,new File(prop.getProperty("screenpath"+result+"screenshot.png")));
+///		FileUtils.copyFile(src,new File(prop.getProperty("screenpath"+result+"screenshot.png")));
 //
 //	}
 		
